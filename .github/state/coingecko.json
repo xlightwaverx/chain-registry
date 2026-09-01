@@ -1590,7 +1590,7 @@
     },
     {
       "coingecko_id": "lombard-staked-btc",
-      "name": "Lombard Staked BTC",
+      "name": "Lombard BTC",
       "symbol": "LBTC",
       "assets": [
         {
@@ -2235,25 +2235,6 @@
       "origin_asset": {
         "chain_name": "kava",
         "base_denom": "hard"
-      }
-    },
-    {
-      "coingecko_id": "usdx",
-      "name": "USDX",
-      "symbol": "USDX",
-      "assets": [
-        {
-          "chain_name": "kava",
-          "base_denom": "usdx"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/C78F65E1648A3DFE0BAEB6C4CDA69CC2A75437F1793C0E6386DFDA26393790AE"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "kava",
-        "base_denom": "usdx"
       }
     },
     {
